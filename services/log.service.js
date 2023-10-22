@@ -18,10 +18,7 @@ const printHelp = () => {
 		-t [API_KEY] - save token
 		`
 	));
-
 }
-
-
 
 export {printError, printSuccess, printHelp};
 
